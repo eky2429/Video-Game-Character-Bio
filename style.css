@@ -1,0 +1,29 @@
+.customList {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(3, auto);
+    gap: 16px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.customButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    color: #000;
+    border: 2px solid #000;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    padding: 16px 0;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: box-shadow 0.2s, background 0.2s;
+}
+
+.customButton:hover {
+    background: #f0f0f0;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.22);
+}
