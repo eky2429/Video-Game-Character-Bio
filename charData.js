@@ -9,5 +9,159 @@ export const characters = {
         dislikes: "Negativity, Conflict",
         inspiration: "<a href='https://www.instagram.com/cheroo.chim_comics/'> Cheroo Comics</a>",
         description: "Tony is a very optimistic kid who likes making friends and encouraging others\nto stay positive. Will this last in the killing game? Let's see..."
-    }
+    },
+    eric: {
+        name: "Eric Lee",
+        img_path : "imgs/Eric Lee.PNG",
+        img_alt : "Eric's portrait",
+        part_id : 2,
+        talent : "Ultimate Game Developer",
+        likes: "Solitude, game dev, youtube",
+        dislikes: "Pressing others, optimism",
+        inspiration: "Myself",
+        description: "Eric is a very quiet and introverted kid, he also acts mysertious.<br/>Does he have soemthing more to hide, will we find out in the killing game? Let's see..."
+    },
+    ken: {
+        name: "Ken Cardona",
+        img_path : "imgs/Ken Cardona.PNG",
+        img_alt : "Ken's portrait",
+        part_id : 3,
+        talent : "Ultimate Wrestler",
+        likes: "Eating healthy, workouts, discipline",
+        dislikes: "Laziness, unhealthy foods",
+        inspiration: "<a href = 'https://fanganronpa.fandom.com/wiki/Hajime_Makunouchi'>Hajime Makunochi</a>",
+        description: "Ken is one of the most disciplined students when it comes ot strength and eating healthy, <br/>so he tries to encourage others to do the same <br/>Will he be able ot maintian himself in this killing game? Let's see...</p>"
+    },
+    amelia: {
+        name: "Amelia Warten",
+        img_path : "imgs/Amelia Warten.PNG",
+        img_alt : "Amelia's portrait",
+        part_id : 4,
+        talent : "Ultimate Detective",
+        likes: "Solving mysteries, Solitude",
+        dislikes: "rebellious people, loud noises",
+        inspiration: "<a href = 'https://virtualyoutuber.fandom.com/wiki/Watson_Amelia'>Amelia Watsion</a>, <a href = 'https://danganronpa.fandom.com/tr/wiki/Kyoko_Kirigiri'>Kyoko Kirigiri</a>",
+        description: "Amelia was taught detective skills from her grandfather and enjoys solving complex mysteries.<br/>Despite her cold personality she is willing to lend a helping hand to others. Will she be able <br/>to maintain her composure and be useful for the killing game? Let us see...</p>"
+    },
+    anneMarie: {
+        name: "Anne-Marie Barton Ball",
+        img_path : "imgs/Anne-Marie Barton Ball.PNG",
+        img_alt : "Anne-Marie's portrait",
+        part_id : 5,
+        talent : "Ultimate Language Speaker",
+        likes: "Learning languages, meeting people, friendly people",
+        dislikes: "complicated situations, thinking hard, mysteries",
+        inspiration: "<a href = 'https://www.goodreads.com/book/show/6393384'>Kindred</a>, <a href = 'https://genius.com/Laura-mvula-sing-to-the-moon-sample'>Laura Mvula</a>, <a href = 'https://danganronpa.fandom.com/wiki/Himiko_Yumeno'>Himiko Yumeno</a>, <a href = 'https://fanganronpa.fandom.com/wiki/Teruya_%C5%8Ctori'>Teruya Otori</a>",
+        description: "Honestly, I did not come up with a background story for her, but she speaks multiple languages, <br /> despite having a Nigerian accent, she speaks alright. She si alo kind of an airhead, but is social (like Tony Fisher). <br/>Based on her character, do you think she will last in a killing game or not? We will see..."
+    },
+    derrick: {
+        name: "Derrick Evans",
+        img_path : "imgs/Derrick Evans.PNG",
+        img_alt : "Derrick's portrait",
+        part_id : 6,
+        talent : "Ultimate Mathlete",
+        likes: "Math, bullying, ego",
+        dislikes: "weak people, authority, being targeted",
+        inspiration: "<a href = 'https://danganronpa.fandom.com/wiki/Fuyuhiko_Kuzuryu'>Fuyuhiko Kuzuryu</a>, <a href = 'https://sally-bollywood.fandom.com/wiki/Evan'>Evan</a>",
+        description: "Derrick is the bully of the class. He has a big potty mouth, tends to belittle others (especially Eric), <br />and doesn't like listening to authority. Will he get far with an attitude like that in the killing game <br />or will he change for the better. Let's see..."
+    },
+    angelica: {
+        name: "Angelica Georgiu",
+        img_path : "imgs/Angelica Georgiu.PNG",
+        img_alt : "Angelica's portrait",
+        part_id : 7,
+        talent : "Ultimate Nun",
+        likes: "God, Serving people, Catholicism, friends",
+        dislikes: "Bullying, dishonesty, Violence, etc.",
+        inspiration: "<a href = 'https://danganronpa.fandom.com/wiki/Sonia_Nevermind'>Sonia Nevermind</a>, Maria, <a href = 'https://haganai.fandom.com/wiki/Kate_Takayama'>Kate Takayama</a>",
+        description: "Angelica is the angel of the class. She is almost always pure, respects everyone's religious values, <br />and never retaliates despite what comes her way. Despite all of this, she does get a bit scared <br />when people get rude or threaten her because of her values. Will her religion triumph <br />or will she fall at the hands of the killing game? Let us see..."
+    },
+    georgie: {
+        name: "Georgie Wilbert",
+        img_path : "imgs/Georgie Wilbert.PNG",
+        img_alt : "Georgie's portrait",
+        part_id : 8,
+        talent : "Ultimate Puppeteer",
+        likes: "Puppets, making friends, kindness, manipulation",
+        dislikes: "Rude people, Violence",
+        inspiration: "<a href = 'https://fanganronpa.fandom.com/wiki/Mikado_Sann%C5%8Dji'>Mikado Sannoji</a>, <a href = 'https://danganronpa.fandom.com/wiki/Tsumugi_Shirogane'>Tsumugi Shirogane</a>, <a href = 'https://danganronpa-fanganprojects.fandom.com/wiki/Mikihiko_Koyasunaga'>Mikihiko Koyasunaga</a>",
+        description: "Georgie, despite her weird mask, is a kind and outgoing person who wants to share <br />her kindness through puppet shows. Don't make fun of her or she will start crying her tears out! <br />Will her weird hobby be a step for everyone's hope or will it crumble under everyone else's cruel opinions? We will see..."
+    },
+    gerhardine: {
+        name: "Gerhardine Barton",
+        img_path : "imgs/Gerhardine Barton.PNG",
+        img_alt : "Gerhardine's portrait",
+        part_id : 9,
+        talent : "Ultimate Tutor",
+        likes: "Looking down on others, intelligence, wisdom",
+        dislikes: "Idiots, Stupidity, Folly",
+        inspiration: "<a href = 'https://fanganronpa.fandom.com/wiki/Rei_Mekaru'>Rei Mekaru</a>",
+        description: "Despite her having an amazing talent, she does not like it. She belittles people who do not understand \"basic concepts\", <br />often assigning nicknames to those who are \"dumber\" than her. She even considers her parents \"incompetent\" and \"stupid\" because they are not <br />successful. Yet she does have a reason for her actions Will she crumble in the killing game and have her mask <br />broken or will she be the same a**hole she always is? We will find out..."
+    },
+    dennis: {
+        name: "Dennis Glynn",
+        img_path : "imgs/Dennis Glynn.PNG",
+        img_alt : "Dennis Glynn's portrait",
+        part_id : 10,
+        talent : "Ultimate Engineer",
+        likes: "Building things, technology, wisdom, being 'strong'",
+        dislikes: "Bullies, ...",
+        inspiration: "<a href = 'https://amateursurgeon.fandom.com/wiki/Junkyard_Guts'>Guts</a>, <a href = 'https://danganronpa-fanganprojects.fandom.com/wiki/Corza'>Corza</a>",
+        description: "He is a timid guy who just likes to build his own inventions. Will he be able to last long enough in theis killing game <br />or his invenstions to come to life or will he succumb? We will see..."
+    },
+    ophelia: {
+        name: "Ophelia Roberts",
+        img_path : "imgs/Ophelia Roberts.PNG",
+        img_alt : "Ophelia's portrait",
+        part_id : 11,
+        talent : "Ultimate Barista",
+        likes: "Lattes, Matcha, Friends",
+        dislikes: "Bullies, Matcha-haters",
+        inspiration: "<a href = 'https://crush-crush.fandom.com/wiki/Lotus'>Lotus</a>, <a href = 'https://fanganronpa.fandom.com/wiki/Kiyoka_Maki'>Kiyoka Maki</a>",
+        description: "She loves a good ol' latte. She loves to bring smiles and positive emotions with her drinks? Though she does not do well with conflicts, <br />she is trully worthy of her talent. Other than that, there isn't anything else about her. Is that a red flag in a killing game or not? Let us find out..."
+    },
+    tim: {
+        name: "Tim Burton",
+        img_path : "imgs/Tim Burton.PNG",
+        img_alt : "Tim's portrait",
+        part_id : 12,
+        talent : "Ultimate Security Guard",
+        likes: "Security, work, justice",
+        dislikes: "Criminal scum, cruelty, MURDER",
+        inspiration: "<a href = 'https://fanganronpa.fandom.com/wiki/Tsurugi_Kinjo'>Tsurugi Kinjo</a>, <a href = 'https://disney.fandom.com/wiki/Manny_Garcia'>Handy Manny</a>",
+        description: "He is more than a cute face, he is also a hard-working man. He monitors the halls at night and sleeps in the day. <br />Even though he does deeply care for everyone's safety, he can get a bit carried away since he idolized Tsurugi Kinjoi, the Ultimate Police Officer. <br />Will he get through to everyone with his idealizations and beliefs (from Tsurugi) or will he die immediately? Let's see..."
+    },
+    mariella: {
+        name: "Mariella Rizzo",
+        img_path : "imgs/Mariella Rizzo.PNG",
+        img_alt : "Mariella's portrait",
+        part_id : 13,
+        talent : "Ultimate Stripper",
+        likes: "Dancing, attention, men",
+        dislikes: "Boring people, being ignored",
+        inspiration: "<a href = 'https://en.wikipedia.org/wiki/Lizzo'>Lizzo</a>, Ms. Jennifer",
+        description: "She is a very vulgar woman who can also be weak at times, but means well (I think...).<br />She likes being around men, but also wants to get out of dangerous situations as soon as possible!<br />Will her flaws be revealed before her demise or will she repent and survive? Let us find out..."
+    },
+    dennisGar: {
+        name: "Dennis Garrison",
+        img_path : "imgs/Dennis Garrison.PNG",
+        img_alt : "Dennis Garrison's portrait",
+        part_id : 14,
+        talent : "Ultimate Special Ed Counselor",
+        likes: "Manga, corn, tutoring, women",
+        dislikes: "Vibe-killers",
+        inspiration: "<a href = 'https://criminalcasegame.fandom.com/wiki/Danny_Moto'>Danny Moto</a>, <a href = 'https://danganronpa.fandom.com/wiki/Teruteru_Hanamura'>TeruTeru Hanamura</a>",
+        description: "Ironically, he is a bit of a creep (despite being a special ed counselor), he does seem to care to assist people with disabilities, <br/>That is, ... if that's all he is..."
+    },
+    diane: {
+        name: "Diane Mercia",
+        img_path : "imgs/Diane Mercia.PNG",
+        img_alt : "Diane's portrait",
+        part_id : 15,
+        talent : "Ultimate Doctor",
+        likes: "Friends, Leadership",
+        dislikes: "Rude people, conflict",
+        inspiration: "<a href = 'https://fanganronpa.fandom.com/wiki/Kanata_Inori'>Kanata Inori</a>",
+        description: "Diane is a very kind hearted person. Despite her short stature, she wants to be taken seriously <br/>and can be strict at times, so be mindful of that. Will her leadership come crashing down in the killing game? Let's find out..."
+    },
 };
