@@ -14,20 +14,22 @@
         <hr />
 
         <!--Table of characters-->
-        <div>
-            <div class="character-card">
-                <h3>Tony Fisher</h3>
-                <img src="imgs/Tony Fisher.PNG" alt="Tony's portrait" width="150">
-                <ul>
-                    <li><b>Participant #1</b></li>
-                    <li><b>Talent:</b>Ultimate Lucky Student</li>
-                    <li><b>Interests:</b> Friends, being Postiive</li>
-                    <li><b>Dislikes:</b> Negativity, Conflict</li>
-                    <li><b>Inspired by:</b> <a href = "https://www.instagram.com/cheroo.chim_comics/">Cheroo Comics</a> </li>
-                </ul>
-                <p><b>Description:</b> Tony is a very omptimistic kid who likes making friends and encouraging others <br/>
-                                        to stay positive. Will this last in the killing game? Let's see...</p>
-            </div>
+        <div class="character-list">
+            <ul>
+                <li onclick="showBio('tony')">Tony Fisher</li>
+                <li onclick="showBio('eric')">Eric Lee</li>
+                <li onclick="showBio('ken')">Ken Cardona</li>
+                <li onclick="showBio('amelia')">Amelia Warten</li>
+                <!-- Add the rest the same way -->
+            </ul>
+        </div>
+
+        <!-- Where the bio will appear -->
+        <div id="bio-container"></div>
+
+        <script src="script.js"></script>
+        
+        <!--<div>
 
             <div class="character-card">
                 <h3>Eric Lee</h3>
@@ -235,7 +237,7 @@
                 <p><b>Description:</b> Diane is a very kind hearted person. Despite her short stature, she wants to be taken seriously <br/>
                                         and can be strit at times, so be mindful of that. Will her leadershiup come crashing down in the killing game? Let's find out...</p>
             </div>
-        </div>
+        </div>-->
 
         <footer>Made by Ethan Ky on September 7th</footer>
 
